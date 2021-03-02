@@ -1,16 +1,30 @@
-### Hi there 👋
+## The Basics
 
-<!--
-**rwaffen/rwaffen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+person { 'Robert Waffen':
+  job_title    => 'Agile Enterprise DevOps',
+  home         => '/home/Berlin/Lichtenberg',
+  age          => 36,
+  relationship => undef,
+}
+-> contact { 'How_to_contact_me':
+  ensure  => 'digital',
+  phone   => '<Redacted>',
+  mail    => '<Redacted>',
+  twitter => '@zero0ne',
+  gitlab  => '@rwaffen',
+}
+```
 
-Here are some ideas to get you started:
+## The Details
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Operating_Systems   = [ "RedHat", "CentOS", "Ubuntu", "macOS" ]
+Automation          = [ "Puppet", "Ansible", "Terraform" ]
+Monitoring          = [ "Icinga2", "Prometheus", "ELK Stack" ]
+Programming         = [ "Ruby", "Bash", "Python", "PHP" ]
+Server_Applications = [ "Apache", "Nginx", "Tomcat" ]
+Cloud               = [ "AWS", "GCP", "DigitalOcean", "Hetzner"]
+Virtualization      = [ "VMWare", "KVM" ]
+Databases           = [ "MySQL", "Oracle Database", "Elasticsearch" ]
+```
