@@ -3,9 +3,8 @@
 ```
 person { 'Robert Waffen':
   job_title    => 'Agile Enterprise DevOps',
-  home         => '/home/Berlin/Lichtenberg',
-  age          => 36,
-  relationship => undef,
+  home         => '/home/Berlin',
+  age          => 37,
 }
 -> contact { 'How_to_contact_me':
   ensure  => 'digital',
