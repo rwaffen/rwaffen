@@ -10,7 +10,7 @@ person { 'Robert Waffen':
   ensure  => 'digital',
   phone   => '<Redacted>',
   mail    => '<Redacted>',
-  twitter => '@zero0ne',
+  twitter => '@rand0m_rob',
   gitlab  => '@rwaffen',
 }
 ```
