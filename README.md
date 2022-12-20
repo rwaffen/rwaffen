@@ -7,11 +7,12 @@ person { 'Robert Waffen':
   age          => 37,
 }
 -> contact { 'How_to_contact_me':
-  ensure  => 'digital',
-  phone   => '<Redacted>',
-  mail    => '<Redacted>',
-  twitter => '@rand0m_rob',
-  gitlab  => '@rwaffen',
+  ensure    => 'digital',
+  phone     => '<Redacted>',
+  mail      => '<Redacted>',
+  twitter   => '@rand0m_rob',
+  gitlab    => '@rwaffen',
+  fediverse => '@rand0mbytes@social.rand0m.fail',
 }
 ```
 
