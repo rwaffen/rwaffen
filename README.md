@@ -1,8 +1,14 @@
-## Motto
+## The Motto
 
 "We the willing, led by the ignorant, do the impossible for the ungrateful. We have accomplished so much with so little for so long that we are now able to do anything with nothing!"
 
 ~ Alexander Sergejewitsch Puschkin
+
+## The Stats
+
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=rwaffen&show_icons=true&count_private=true)
+
+
 
 ## The Basics
 
