@@ -38,6 +38,6 @@ Monitoring          = [ "Icinga2", "Prometheus", "ELK Stack" ]
 Programming         = [ "Ruby", "Bash", "Python", "PHP" ]
 Server_Applications = [ "Apache", "Nginx", "Tomcat" ]
 Cloud               = [ "AWS", "GCP", "DigitalOcean", "Hetzner"]
-Virtualization      = [ "VMWare", "KVM" ]
+Virtualization      = [ "VMWare", "KVM", "Docker", "Container", "K8S" ]
 Databases           = [ "MySQL", "Oracle Database", "Elasticsearch" ]
 ```
