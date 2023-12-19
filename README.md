@@ -24,8 +24,9 @@ contact { 'How_to_contact_me':
   ensure    => 'digital',
   phone     => '<Redacted>',
   mail      => '<Redacted>',
-  twitter   => '@rand0m_rob',
   gitlab    => '@rwaffen',
+  x         => '@rand0m_rob',
+  threads   => '@rand0mbytes@threads.net,'
   fediverse => '@rand0mbytes@social.rand0m.fail',
   require   => Person['Robert Waffen'],
 }
