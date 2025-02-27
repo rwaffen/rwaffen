@@ -13,15 +13,12 @@
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=rwaffen&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwaffen&layout=compact)
 
-
-
 ## The Basics
 
 ```puppet
 person { 'Robert Waffen':
-  job_title    => 'Agile Enterprise DevOps',
-  home         => '/home/Leipzig',
-  age          => 39,
+  job_title     => 'Agile Enterprise DevOps',
+  home          => '/home/Leipzig',
 }
 
 contact { 'How_to_contact_me':
@@ -29,9 +26,7 @@ contact { 'How_to_contact_me':
   phone     => '<Redacted>',
   mail      => '<Redacted>',
   gitlab    => '@rwaffen',
-  x         => '@rand0m_rob',
   threads   => '@rand0mbytes@threads.net,'
-  fediverse => '@rand0mbytes@social.rand0m.fail',
   require   => Person['Robert Waffen'],
 }
 ```
