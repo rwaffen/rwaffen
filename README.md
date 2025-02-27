@@ -4,6 +4,10 @@
 
 ~ Alexander Sergejewitsch Puschkin
 
+"Make it work, make it right, make it fast!"
+
+~ Kent Beck
+
 ## The Stats
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=rwaffen&show_icons=true&count_private=true)
