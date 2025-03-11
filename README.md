@@ -25,8 +25,8 @@ contact { 'How_to_contact_me':
   ensure    => 'digital',
   phone     => '<Redacted>',
   mail      => '<Redacted>',
-  gitlab    => '@rwaffen',
-  threads   => '@rand0mbytes@threads.net,'
+  github    => '@rwaffen',
+  mastodon  => '@rwaffen@fosstodon.org'
   require   => Person['Robert Waffen'],
 }
 ```
