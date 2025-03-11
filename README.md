@@ -43,5 +43,3 @@ Cloud               = [ "AWS", "GCP", "DigitalOcean", "Hetzner"]
 Virtualization      = [ "VMWare", "KVM", "Docker", "Container", "K8S" ]
 Databases           = [ "MySQL", "Oracle Database", "Elasticsearch" ]
 ```
-
-<link rel="me" href="https://fosstodon.org/@rwaffen"></link>
