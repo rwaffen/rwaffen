@@ -8,16 +8,11 @@
 
 ~ Kent Beck
 
-## The Stats
-
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=rwaffen&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwaffen&layout=compact)
-
 ## The Basics
 
 ```puppet
 person { 'Robert Waffen':
-  job_title     => 'Agile Enterprise DevOps',
+  job_title     => 'Señor Agile Enterprise DevOps',
   home          => '/home/Leipzig',
 }
 
@@ -37,9 +32,9 @@ contact { 'How_to_contact_me':
 Operating_Systems   = [ "RedHat", "CentOS", "Ubuntu", "macOS" ]
 Automation          = [ "Puppet", "Ansible", "Terraform" ]
 Monitoring          = [ "Icinga2", "Prometheus", "ELK Stack" ]
-Programming         = [ "Ruby", "Bash", "Python", "PHP" ]
+Programming         = [ "Ruby", "Bash", "Python" ]
 Server_Applications = [ "Apache", "Nginx", "Tomcat" ]
-Cloud               = [ "AWS", "GCP", "DigitalOcean", "Hetzner"]
+Cloud               = [ "AWS", "GCP", "Hetzner"]
 Virtualization      = [ "VMWare", "KVM", "Docker", "Container", "K8S" ]
 Databases           = [ "MySQL", "Oracle Database", "Elasticsearch" ]
 ```
